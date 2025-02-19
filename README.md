@@ -10,3 +10,4 @@ https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 4. Convolutional Neural Networks 
 5. Sequence Models
 
+ 
